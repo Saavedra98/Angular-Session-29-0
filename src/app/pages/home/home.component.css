@@ -1,0 +1,48 @@
+.component{
+  padding: 30px;
+  margin: 0 auto;
+  width: 80%;
+  margin-top: 50px;
+}
+
+.agregar{
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.demo-table {
+  width: 100%;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.table__column {
+  text-align: center;
+  font-size: 18px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-transform: uppercase;
+}
+
+.dato{
+  text-align: center;
+  font-size: 15px;
+}
+
+.titulo{
+  text-align: center;
+  font-size: 20px;
+  font-weight: 700;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.formulario{
+  padding: 10px;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 10px;
+}
+
+.botones{
+  width: 83%;
+  margin: 0 auto;
+}
